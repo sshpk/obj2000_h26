@@ -28,7 +28,7 @@ public class TestString {
 		String name = "Syed Sajid Hussain";
 		System.out.println(name.length());
 		System.out.println(name.charAt(3));
-		System.out.println(name.substring(5,10));
+		System.out.println(name.substring(0,4));
 		System.out.println(name.toUpperCase());
 		System.out.println(name.trim());
 		
