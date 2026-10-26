@@ -1,0 +1,5 @@
+4
+Stormen;ROMAN;350
+Mørkt vann;KRIM;280
+Havet;FAKTA;200
+Trollskogen;BARN;120
