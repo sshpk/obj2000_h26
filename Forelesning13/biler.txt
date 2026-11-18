@@ -1,0 +1,5 @@
+AB12345;Toyota;650.0;4
+CD67890;Volvo;800.0;5
+EF24680;Tesla;gratis;5
+GH13579;Fiat;-100;3
+JK11223;Kia;550.0;5

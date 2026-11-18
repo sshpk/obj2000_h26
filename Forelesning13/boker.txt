@@ -1,0 +1,3 @@
+Trollskogen;2018;120
+Mørkt vann;tjue;280
+Nordlys;2022;200
